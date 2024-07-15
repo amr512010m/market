@@ -1,0 +1,25 @@
+.ccc{
+	line-height:23px;
+		background-color: azure;
+	width:694px;
+	height: 200px;
+	border-radius: 8px;
+	border:1px solid black;
+	margin:50px;
+		margin-left:200px;
+		margin-top:200px;
+	
+}
+
+.com{
+	color:black;
+		background-color:lightcyan;
+	height: 1900px;
+	padding: 0px;
+	margin: 0px;
+	justify-content: center;
+	margin: auto;
+
+	
+}
+*{background-color:azure;}
